@@ -23,5 +23,6 @@ lien vers le trello [ici](https://trello.com/invite/b/69120880ad1a01579aeea2c5/A
 structuration du projet <img width="1920" height="1080" alt="r115" src="https://github.com/user-attachments/assets/76bcaf70-c8b5-4209-adff-dc97c7a9fe80" />
 
 ce cite est aussi hébérgé sur mon serveur personnel : [sae.xunil.app](https://sae.xunil.app)
+hébergé aussi sur github page [ici](https://viikam.github.io/)
 
 bonne visite !
